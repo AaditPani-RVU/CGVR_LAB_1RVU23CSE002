@@ -1,0 +1,1 @@
+/opt/homebrew/bin/g++-14 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/openssl/lib CMakeFiles/lab01.dir/main.cpp.o CMakeFiles/lab01.dir/glad_build/src/glad.c.o -o lab01  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.5.dylib -framework Cocoa -framework IOKit -framework OpenGL
