@@ -1,0 +1,3 @@
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB5/build/CMakeFiles/cohen_sutherland.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB5/build/CMakeFiles/edit_cache.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB5/build/CMakeFiles/rebuild_cache.dir
