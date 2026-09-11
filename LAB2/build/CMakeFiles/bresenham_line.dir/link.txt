@@ -1,0 +1,1 @@
+/opt/homebrew/bin/g++-14 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/openssl/lib CMakeFiles/bresenham_line.dir/bresenham_line.cpp.o -o bresenham_line
