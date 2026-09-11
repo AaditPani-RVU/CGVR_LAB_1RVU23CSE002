@@ -1,0 +1,7 @@
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/translation.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/rotation.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/scaling.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/reflection.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/shearing.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/edit_cache.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB3/build/CMakeFiles/rebuild_cache.dir
