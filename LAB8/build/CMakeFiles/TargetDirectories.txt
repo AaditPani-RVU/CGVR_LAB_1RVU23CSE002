@@ -1,0 +1,4 @@
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB8/build/CMakeFiles/shader_triangle.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB8/build/CMakeFiles/shader_preview.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB8/build/CMakeFiles/edit_cache.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB8/build/CMakeFiles/rebuild_cache.dir
