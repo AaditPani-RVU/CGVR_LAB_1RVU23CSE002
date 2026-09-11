@@ -1,0 +1,27 @@
+# Unity-generated folders (regenerated on open/build; not source)
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/.vscode/
+/.vs/
+
+# Auto-generated IDE project files
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Asset meta backups
+*.orig
