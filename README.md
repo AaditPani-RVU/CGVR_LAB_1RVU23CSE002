@@ -38,9 +38,9 @@
 | 5 | **Cohen–Sutherland line clipping** | 4-bit outcodes, trivial accept/reject, edge-by-edge clipping | [`LAB5`](LAB5) |
 | 6 | **Z-buffer hidden surface removal** | Software scan-converter with a per-pixel depth test, and the depth buffer shown alongside | [`LAB6`](LAB6) |
 | 7 | **Phong illumination model** | Ambient + diffuse + specular, evaluated per fragment in GLSL | [`LAB7`](LAB7) |
-| 8 | **Vertex & fragment shaders** | VAO/VBO pipeline with interpolated per-vertex colour | [`LAB8`](LAB8) |
+| 8 | **Vertex & fragment shaders** | VAO/VBO pipeline with interpolated per-vertex colour, plus a Unity project with custom vertex/fragment shaders (vertex-colour triangle and a GPU-displaced, lit wave) | [`LAB8`](LAB8) |
 | 9 | **Interactive 3D scene in Unity** | WASD player, follow camera, collectibles and a live score, built entirely from code | [`LAB9`](LAB9) |
-| 10 | **3D viewing pipeline** | Model → view → projection → NDC → viewport, perspective vs. orthographic | [`LAB10`](LAB10) |
+| 10 | **3D viewing pipeline** | Model → view → projection → NDC → viewport, perspective vs. orthographic, in OpenGL and in Unity (checked against Unity's own camera matrices) | [`LAB10`](LAB10) |
 
 Each folder has its own `README.md` explaining the algorithm, how to build and run it, and how its screenshots were produced.
 
@@ -95,6 +95,16 @@ Each folder has its own `README.md` explaining the algorithm, how to build and r
       <b>Lab 10</b> · Perspective (left) vs. orthographic (right) through the full 3D viewing pipeline
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="LAB8/screenshots/lab8_unity_scene.png" alt="Lab 8 Unity"><br>
+      <b>Lab 8 (Unity)</b> · Custom vertex & fragment shaders
+    </td>
+    <td align="center">
+      <img src="LAB10/screenshots/lab10_unity_scene.png" alt="Lab 10 Unity"><br>
+      <b>Lab 10 (Unity)</b> · Hand-built viewing pipeline over Unity's render
+    </td>
+  </tr>
 </table>
 
 ---
@@ -107,7 +117,7 @@ Each folder has its own `README.md` explaining the algorithm, how to build and r
 brew install cmake glfw
 ```
 
-The OpenGL labs use the bundled GLAD loader in each lab folder (`glad_build/`), so GLFW is the only extra dependency. Lab 9 needs **Unity 6** (see [`LAB9/README.md`](LAB9/README.md)).
+The OpenGL labs use the bundled GLAD loader in each lab folder (`glad_build/`), so GLFW is the only extra dependency. Lab 9 and the Unity versions of Labs 8 and 10 need **Unity 6** (see [`LAB9/README.md`](LAB9/README.md), [`LAB8/README.md`](LAB8/README.md#unity-version) and [`LAB10/README.md`](LAB10/README.md#unity-version)).
 
 **Build and run any OpenGL lab:**
 
