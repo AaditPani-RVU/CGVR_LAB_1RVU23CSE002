@@ -1,0 +1,3 @@
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB7/build/CMakeFiles/phong.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB7/build/CMakeFiles/edit_cache.dir
+/Users/aaditpani/Desktop/SEM7/CGVR/Lab01/LAB7/build/CMakeFiles/rebuild_cache.dir
